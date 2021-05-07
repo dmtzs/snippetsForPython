@@ -1,0 +1,1 @@
+# Old python snippets from lintern
