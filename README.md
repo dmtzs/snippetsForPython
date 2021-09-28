@@ -1,5 +1,5 @@
 <p align="center">
-  <!--img width="280" src="https://github.com/dmtzs/ProyectoRaspArduino/blob/master/resources/Imgs/BoaEsmeraldaAppOriginal.png" alt="logo"-->
+  <img width="280" src="https://github.com/dmtzs/snippetsForPython/blob/master/pythonImg.png" alt="logo">
   <h1 align="center" style="margin: 0 auto 0 auto;">Python snippets</h1>
   <h5 align="center" style="margin: 0 auto 0 auto;">Old python snippets from lintern of vscode</h5>
 </p>
