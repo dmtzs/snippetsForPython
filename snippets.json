@@ -1,5 +1,5 @@
 {
-    "if": {
+	"if": {
         "prefix": "if",
         "body": ["if ${1:expression}:", "\t${2:pass}"],
         "description": "Code snippet for an if statement"
@@ -94,7 +94,7 @@
     },
     "def": {
         "prefix": "def",
-        "body": ["def ${1:funcname}(${2:parameter_list}):", "\t\"\"\"", "\t${3:docstring}", "\t\"\"\"","\t${4:pass}"],
+        "body": ["def ${1:funcname}(${2:parameter_list}):","\t${4:pass}"],
         "description": "Code snippet for a function definition"
     },
     "def(class method)": {
@@ -114,7 +114,7 @@
     },
     "class": {
         "prefix": "class",
-        "body": ["class ${1:classname}(${2:object}):", "\t\"\"\"", "\t${3:docstring}", "\t\"\"\"", "\t${4:pass}"],
+        "body": ["class ${1:classname}(${2:object}):", "\t${4:pass}"],
         "description": "Code snippet for a class definition"
     },
     "lambda": {

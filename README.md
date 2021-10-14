@@ -7,4 +7,8 @@
 # Description
 This are old python snippets from the python extension of vscode. I put here these snippets in order to have a quick search for add these snippets to a new vscode download in one of my computers.
 <br>
-These snippets are not a personal creation, are just to preserve this.
+These snippets are not a personal creation, are just to preserve this but also have some modifications in the same snippets in which I think are better.
+<br>
+
+## Modifications
+Coming soon a table showing the personal modifications.
