@@ -1,0 +1,13 @@
+wget
+toml
+Flask
+gevent
+telebot
+pyserial
+boxsdk[jwt]
+pyinstaller
+pymongo[srv]
+testresources
+Flask-PyMongo
+python-crontab
+Flask-HTTPAuth

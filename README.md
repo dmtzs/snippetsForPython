@@ -10,5 +10,4 @@ This are old python snippets from the python extension of vscode. I put here the
 These snippets are not a personal creation, are just to preserve this but also have some modifications in the same snippets in which I think are better.
 <br>
 
-## Modifications
-Coming soon a table showing the personal modifications.
+Also there is a `requirements.txt` file in which I have all the python libraries that I used, as you can see there is no version inside the file because I like to install the recently ones in my computer.
